@@ -1,0 +1,2 @@
+js-simple-project.js:CHANGED:hash
+main.js:REMOVED:hash
