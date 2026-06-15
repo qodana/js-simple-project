@@ -1,0 +1,10 @@
+{
+  "name": "js-simple-project",
+  "version": "1.0.0",
+  "description": "Simple JS project for Qodana tests",
+  "license": "MIT",
+  "main": "js-simple-project.js",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
